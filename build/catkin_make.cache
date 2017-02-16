@@ -1,0 +1,2 @@
+ball_track:beginner_tutorials:learn_ball:learn_img
+-DCATKIN_DEVEL_PREFIX=/home/thinkpad/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/thinkpad/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/thinkpad/catkin_ws/install
+
+Name: learn_img
+Description: Description of learn_img
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/thinkpad/catkin_ws/install/lib 
+Requires: 

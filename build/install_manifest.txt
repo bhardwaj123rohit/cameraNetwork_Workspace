@@ -1,0 +1,14 @@
+/home/thinkpad/catkin_ws/install/_setup_util.py
+/home/thinkpad/catkin_ws/install/env.sh
+/home/thinkpad/catkin_ws/install/setup.bash
+/home/thinkpad/catkin_ws/install/setup.sh
+/home/thinkpad/catkin_ws/install/setup.zsh
+/home/thinkpad/catkin_ws/install/.rosinstall
+/home/thinkpad/catkin_ws/install/lib/pkgconfig/ball_track.pc
+/home/thinkpad/catkin_ws/install/share/ball_track/cmake/ball_trackConfig.cmake
+/home/thinkpad/catkin_ws/install/share/ball_track/cmake/ball_trackConfig-version.cmake
+/home/thinkpad/catkin_ws/install/share/ball_track/package.xml
+/home/thinkpad/catkin_ws/install/lib/pkgconfig/beginner_tutorials.pc
+/home/thinkpad/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/thinkpad/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/thinkpad/catkin_ws/install/share/beginner_tutorials/package.xml
